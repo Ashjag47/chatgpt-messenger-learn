@@ -3,7 +3,7 @@ import { getAnalytics } from "firebase/analytics";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCclv4nAezNfDMSz6oGIxdFmZ_LLchSHpA",
+  apiKey: "",
   authDomain: "chatgpt-messenger-learn.firebaseapp.com",
   projectId: "chatgpt-messenger-learn",
   storageBucket: "chatgpt-messenger-learn.appspot.com",
